@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reiquohxe.airisblanco.design/sitemap.xml
